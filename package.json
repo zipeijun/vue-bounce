@@ -1,0 +1,31 @@
+{
+  "name": "vue-bounce",
+  "version": "1.0.0",
+  "description": "用于禁用 iOS 平台橡皮筋效果的 Vue 指令",
+  "main": "dist/vue-bounce.js",
+  "scripts": {
+    "build": "babel src --out-dir dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zipeijun/vue-bounce.git"
+  },
+  "author": "ziPeiJun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zipeijun/vue-bounce/issues"
+  },
+  "homepage": "https://github.com/zipeijun/vue-bounce#readme",
+  "dependencies": {
+    "@babel/polyfill": "^7.2.5"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.2.3",
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.3.1"
+  },
+  "babel": {
+    "comments": false,
+    "minified": true
+  }
+}
