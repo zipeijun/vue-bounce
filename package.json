@@ -1,6 +1,6 @@
 {
   "name": "vue-bounce",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "用于禁用 iOS 平台橡皮筋效果的 Vue 指令",
   "main": "dist/vue-bounce.js",
   "scripts": {
